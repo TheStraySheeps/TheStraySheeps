@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Daniel 🌈
+I'm 23 and a Machine Learning dev from northern germany. Trying to make working with data more accesible. The technologies I like to work with are Python, TensorFlow, scikit-learn, Streamlit, JavaScript and VueJS.
 
 <!--
 **TheStraySheeps/TheStraySheeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
